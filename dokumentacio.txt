@@ -1,9 +1,13 @@
-Követelmény specifikáció:
+Követelmény specifikáció
 
- - Jelenlegi helyzet leírása
+ - Jelenlegi helyzet leírása:
 
 A felhasználóval megtörtént a megbeszélés. Egy autó szerelő cég weboldalt szeretne magának, mert már az összes vetéyltársának van és nem akar ez miatt lemaradni.
 
-Felhasználói igények dokumentálása:
+- Felhasználói igények dokumentálása:
 
 A megrendelő egy kényelmesen használható weblapot kért , hogy készítsünk a részére.
+
+- Vágyálom rendszer leírása:
+
+A megrendelő/felhasználó arra vágyik, hogy olyan weboldala legyen mint az egyik konkurens cégnek. Lehessen időpontot foglalni és felíratkozni a hírlevelére. 
