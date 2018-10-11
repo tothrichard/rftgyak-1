@@ -20,3 +20,9 @@ A megrendelő/felhasználó arra vágyik, hogy olyan weboldala legyen mint az eg
 
 A megrendelő egy modern,könnyen használható weboldalt kért amit bárki elérhet bárhonnan 
 
+- Használati esetek:
+
+* Hírlevélről való értesülés
+* Időpont foglalás
+* Árlistáról való tájékoztatás
+
