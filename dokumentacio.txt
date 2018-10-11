@@ -1,0 +1,6 @@
+Követelmény specifikáció:
+
+ - Jelenlegi helyzet leírása
+
+A felhasználóval megtörtént a megbeszélés. Egy autó szerelő cég weboldalt szeretne magának, mert már az összes vetéyltársának van és nem akar ez miatt lemaradni.
+
