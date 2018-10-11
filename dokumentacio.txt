@@ -8,6 +8,13 @@ A felhasználóval megtörtént a megbeszélés. Egy autó szerelő cég webolda
 
 A megrendelő egy kényelmesen használható weblapot kért , hogy készítsünk a részére.
 
+- Jelenlegi üzleti folyamatok modellje
+
+A szerződést megköttötük, a megrendelő kifizette az előleget
+
 - Vágyálom rendszer leírása:
 
 A megrendelő/felhasználó arra vágyik, hogy olyan weboldala legyen mint az egyik konkurens cégnek. Lehessen időpontot foglalni és felíratkozni a hírlevelére. 
+
+
+
