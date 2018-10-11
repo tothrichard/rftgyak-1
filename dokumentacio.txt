@@ -7,3 +7,7 @@ A felhasználóval megtörtént a megbeszélés. Egy autó szerelő cég webolda
 Felhasználói igények dokumentálása:
 
 A megrendelő egy kényelmesen használható weblapot kért , hogy készítsünk a részére.
+
+- Jelenlegi üzleti folyamatok modellje
+
+A szerződést megköttötük, a megrendelő kifizette az előleget
