@@ -4,3 +4,6 @@ Követelmény specifikáció:
 
 A felhasználóval megtörtént a megbeszélés. Egy autó szerelő cég weboldalt szeretne magának, mert már az összes vetéyltársának van és nem akar ez miatt lemaradni.
 
+Felhasználói igények dokumentálása:
+
+A megrendelő egy kényelmesen használható weblapot kért , hogy készítsünk a részére.
