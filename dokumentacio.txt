@@ -22,7 +22,7 @@ A megrendelő egy modern,könnyen használható weboldalt kért amit bárki elé
 
 - Használati esetek:
 
-* Hírlevélről való értesülés
-* Időpont foglalás
-* Árlistáról való tájékoztatás
+ * Hírlevélről való értesülés
+ * Időpont foglalás
+ * Árlistáról való tájékoztatás
 
