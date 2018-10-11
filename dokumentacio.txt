@@ -16,5 +16,7 @@ A szerződést megköttötük, a megrendelő kifizette az előleget
 
 A megrendelő/felhasználó arra vágyik, hogy olyan weboldala legyen mint az egyik konkurens cégnek. Lehessen időpontot foglalni és felíratkozni a hírlevelére. 
 
+- Igényelt üzleti folyamatok modellje:
 
+A megrendelő egy modern,könnyen használható weboldalt kért amit bárki elérhet bárhonnan 
 
